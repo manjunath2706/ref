@@ -1,3 +1,6 @@
+**#branch initial setup is an example for how to create maven multi modulde project**
+
+
 # Spring Boot Microservices
 This repository contains the latest source code of the spring-boot-microservices tutorial
 
