@@ -1,4 +1,4 @@
-**#branch initial setup is an example for how to create maven multi modulde project**
+**#branch initial setup is an example for how to create maven multi module project**
 
 
 # Spring Boot Microservices
